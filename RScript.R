@@ -347,6 +347,4 @@ library(KernSmooth)
 
 
 ##Secondary Reading
-*First
-*Second
-*Third
+help("mean.Date")
