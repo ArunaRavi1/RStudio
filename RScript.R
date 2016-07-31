@@ -347,4 +347,4 @@ library(KernSmooth)
 
 
 ##Secondary Reading
-help("mean.Date")
+
